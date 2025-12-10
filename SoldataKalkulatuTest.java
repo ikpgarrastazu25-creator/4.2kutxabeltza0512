@@ -1,7 +1,8 @@
 
 import org.junit.Test;
 import static org.junit.Assert.*;
-
+//gihub: https://github.com/ikpgarrastazu25-creator/4.2kutxabeltza0512
+//Trelloa: https://trello.com/invite/b/6929522174f3c49f6d47cee3/ATTI1e91a99ef9785845302332e07739efe9EE1886DC/421ataza
 public class SoldataKalkulatuTest {
     
     @Test
